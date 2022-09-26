@@ -3,7 +3,7 @@ server:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://54.214.131.2:8761/eureka
+      defaultZone: http://52.53.239.11:8761/eureka
     register-with-eureka: true
     fetch-registry: true
 spring:
